@@ -1,1 +1,51 @@
+img {
+  width: 150px;
+}
+.column1 {float: left; width: 15%;
+margin-top: 175px;
+margin-bottom;
+text-align: center; font-style: italic;
+}
+.column2 {float: right; width: 75%; font-weight: 100;}
 
+.row2 {display: flex;}
+.column3 {float:left: width: 50%;
+text-align: left;
+font-weight: 100;
+}
+
+.column4 {float:right: width: 10px;
+text-align: right: 10px;
+font-weight: 100;
+}
+
+.section{font-variant: small-caps;
+text-align: center;
+border-top: 1px solid salmon}
+
+#all{
+  
+  width: 800px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border:
+}
+
+body{
+font-family: American Typewriter, Avantgarde, Serif;
+
+
+
+background-color: #14f5d4;
+opacity: 1;
+background-image:  
+  linear-gradient(30deg, #f7435e 12%, transparent 12.5%, transparent 87%, #f7435e 87.5%, #f7435e),
+  linear-gradient(150deg, #f7435e 12%, transparent 12.5%, transparent 87%, #f7435e 87.5%, #f7435e),
+  linear-gradient(30deg, #f7435e 12%, transparent 12.5%, transparent 87%, #f7435e 87.5%, #f7435e),
+  linear-gradient(150deg, #f7435e 12%, transparent 12.5%, transparent 87%, #f7435e 87.5%, #f7435e),
+  linear-gradient(60deg, #f7435e77 25%, transparent 25.5%, transparent 75%, #f7435e77 75%, #f7435e77),
+  linear-gradient(60deg, #f7435e77 25%, transparent 25.5%, transparent 75%, #f7435e77 75%, #f7435e77);
+background-size: px 32px;
+background-position: 0 0, 0 0, 9px 16px, 9px 16px, 0 0, 9px 16px;
+}
